@@ -65,6 +65,9 @@ This ensured that the dashboard was built from a consistent and reliable dataset
 
 ## Dashboard
 
+![Personal Finance Dashboard](Dashboard.png.png)
+
+
 The final dashboard provides an interactive overview of the financial position for the reporting period.
 
 ### Key KPIs
