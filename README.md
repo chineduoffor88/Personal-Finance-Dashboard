@@ -228,6 +228,24 @@ The repository contains the following project materials:
 
 ---
 
+## Project Screenshots
+
+### Average Transaction Value
+![Average Transaction Value](Average_Transactions.PNG.png)
+
+### Savings Rate
+![Savings Rate](Savings_rate.png.png)
+
+### Pareto Analysis
+![Pareto Analysis](Pareto_principle.PNG.png)
+
+### Monthly Expenses
+![Monthly Expenses](monthl_expenses_Pivot_table.PNG.png)
+
+### Fixed vs Discretionary
+![Fixed vs Discretionary](fixed vs_Discretionary.png.png)
+
+
 ## Future Improvements
 
 Potential future improvements include:
